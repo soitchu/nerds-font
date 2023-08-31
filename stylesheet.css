@@ -1,0 +1,9 @@
+@font-face {
+    font-family: '3270 Nerd Font';
+    src: local('3270 Nerd Font'), local('3270NF'),
+        url('3270NF.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
